@@ -1,7 +1,14 @@
-[gravatar:john.doe@domain.com]
-john
+[nwolfe.png]
+nwolfe
 
+[kevin.corcoran.png]
+kevin.corcoran
 
+[justin.may.png]
+justin.may
+
+[chris.png]
+chris
 
 [red-swanson.jpg]
 -doh-
