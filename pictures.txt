@@ -1,0 +1,10 @@
+[gravatar:john.doe@domain.com]
+john
+
+
+
+[red-swanson.jpg]
+-doh-
+
+[green-swanson.gif]
+-all-green-

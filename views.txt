@@ -1,0 +1,2 @@
+[Green Team]
+JENKINS|http://jenkins-enterprise.delivery.puppetlabs.net|trapperkeeper
