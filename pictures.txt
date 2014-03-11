@@ -10,7 +10,7 @@ justin.may
 [chris.png]
 chris
 
-[clay.jpg]
+[red-swanson.jpg]
 -doh-
 
 [green-swanson.gif]
