@@ -1,2 +1,3 @@
 [Green Team]
 JENKINS|http://jenkins-enterprise.delivery.puppetlabs.net|trapperkeeper
+JENKINS|http://jenkins.puppetlabs.com|clojure
